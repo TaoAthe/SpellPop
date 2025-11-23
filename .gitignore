@@ -1,0 +1,11 @@
+build/
+out/
+.vscode/
+.vs/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.user
+*.vcxproj
+*.filters
